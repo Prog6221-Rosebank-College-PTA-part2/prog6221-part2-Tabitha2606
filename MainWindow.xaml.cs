@@ -8,6 +8,7 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 
+git commit -m "Implemented Part 1 chatbot logic into GUI"
 
 namespace ST10483814_POE_PART_2
 {
