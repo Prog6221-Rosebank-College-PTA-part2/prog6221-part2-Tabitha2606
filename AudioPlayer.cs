@@ -2,6 +2,8 @@
 using System.Media;
 using System.IO;
 
+git commit -m "Integrated AudioPlayer class from Part 1 which contains the voice greeting"
+
 namespace ST10483814_POE_PART_2
 {
 
