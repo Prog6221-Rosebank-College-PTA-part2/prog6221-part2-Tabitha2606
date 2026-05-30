@@ -7,6 +7,8 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows.Controls;
 
+git commit -m "Integrated ChatBotResponses class from Part 1"
+
 namespace ST10483814_POE_PART_2
 {
     public class ChatBotResponses
