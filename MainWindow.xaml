@@ -9,6 +9,8 @@
         Title="Cybersecurity Awareness Bot" Height="700" Width="900"
         WindowStartupLocation="CenterScreen">
 
+git commit -m "Added a GUI design with ASCII Art header, conversation history and input area"
+
 
 <Grid>
         <!-- Defines 3 rows in the container-->
